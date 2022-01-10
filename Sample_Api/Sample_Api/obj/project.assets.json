@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\RemoteApps\\LoC_Proj.Api\\Sample_Api\\Sample_Api\\Sample_Api.csproj",
+      "projectUniqueName": "F:\\SampleRepo\\LoC_Proj.Api\\Sample_Api\\Sample_Api\\Sample_Api.csproj",
       "projectName": "Sample_Api",
-      "projectPath": "F:\\RemoteApps\\LoC_Proj.Api\\Sample_Api\\Sample_Api\\Sample_Api.csproj",
+      "projectPath": "F:\\SampleRepo\\LoC_Proj.Api\\Sample_Api\\Sample_Api\\Sample_Api.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "F:\\RemoteApps\\LoC_Proj.Api\\Sample_Api\\Sample_Api\\obj\\",
+      "outputPath": "F:\\SampleRepo\\LoC_Proj.Api\\Sample_Api\\Sample_Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
